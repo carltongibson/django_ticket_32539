@@ -1,0 +1,10 @@
+Test project for Django ticket #32539 with PR #16495
+
+* https://code.djangoproject.com/ticket/32539
+* https://github.com/django/django/pull/16495
+
+Using the Django branch from the PR, `runserver`.
+
+Log into the admin using `admin:test` credentials.
+
+See `My models` changelist to see faceted filters.
